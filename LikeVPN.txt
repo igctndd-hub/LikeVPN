@@ -1,4 +1,4 @@
-#profile-update-interval: 1
+#profile-update-interval: 1 
 #profile-title: LikeVPN Network
 #announce: Спасибо за использование, ищи нас в тг @LikeVPNNetwork | Создатель @GrischaLike
 # Приятного использования
