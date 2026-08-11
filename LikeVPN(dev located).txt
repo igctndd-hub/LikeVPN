@@ -2,3 +2,4 @@
 #profile-title: LikeVPN Dev Version
 #announce: специальная версия для тестировщиков API | Обычным пользователям прошу не использовать
 # Приятного использования
+clear location
