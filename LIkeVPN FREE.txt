@@ -1,0 +1,9 @@
+#profile-update-interval: 1 
+#profile-title: LikeVPN FREE
+#announce: Спасибо за использование | Pro версия и другое в @LikrVPNNetwork | Создатель @GrischaLike
+# Приятного использования
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&fp=firefox&sni=at-01.node.lumixnet.com&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up#🇦🇹%20LikeVPN%20Free%201
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&fp=chrome&sni=cn-01.node.lumixnet.com&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up#🇨🇳%20LikeVPN%20Free%202
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&fp=edge&sni=pk-01.node.lumixnet.com&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up#🇵🇰%20LikeVPN%20Free%203
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&fp=hellochrome_120&sni=in-01.node.lumixnet.com&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up#🇮🇳%20LikeVPN%20Free%204
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&fp=randomized&sni=us-01.node.lumixnet.com&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up#🇺🇸%20LikeVPN%20Free%205
